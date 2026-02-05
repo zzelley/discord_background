@@ -1,6 +1,6 @@
 # zellay
 
-Custom Discord theme derived from [ClearVision v7](https://github.com/ClearVision/ClearVision-v7).
+A personal Discord theme made for my own use, derived from [ClearVision v7](https://github.com/ClearVision/ClearVision-v7).
 
 ## Changes from ClearVision
 
