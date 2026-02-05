@@ -1,6 +1,6 @@
 /**
  * @name zelley_theme
- * @author EunTaek Hong (zzelley)
+ * @author zzelley
  * @version 1.0.0
  * @description Custom Discord theme with black & gold background
  * @source https://github.com/zzelley/discord_background
@@ -114,7 +114,7 @@
 
 /* 메시지 간 경계선 */
 .cozy_c19a55 {
-  border-bottom: 30px solid rgba(33, 33, 33, 0.3)  !important;
+  border-bottom: 1px solid rgba(33, 33, 33, 0)  !important;
   padding-bottom: 8px;
   margin-bottom: 8px;
 }
