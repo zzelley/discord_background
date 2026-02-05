@@ -2,12 +2,12 @@
  * @name zelley_theme
  * @author EunTaek Hong (zzelley)
  * @version 1.0.0
- * @description Custom Discord theme based on ClearVision V7 with black & gold background
+ * @description Custom Discord theme with black & gold background
  * @source https://github.com/zzelley/discord_background
  */
 /* IMPORT CSS */
-@import url("https://clearvision.github.io/ClearVision-v7/main.css");
-@import url("https://clearvision.github.io/ClearVision-v7/betterdiscord.css");
+@import url("https://zzelley.github.io/discord_background/main.css");
+@import url("https://zzelley.github.io/discord_background/betterdiscord.css");
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
@@ -23,7 +23,7 @@
   --offline-color: #808080; /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
   /* APP BACKGROUND */
   --background-shading-percent: 100%; /* app background shading amount (0 for complete smoothness) [default: 100%] */
-  --background-image: url(https://zzelley.github.io/discord_background/black_and_gold.webp); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://zzelley.github.io/discord_background/black_and_gold.webp); /* app background image (link must be HTTPS) [default: url(https://zzelley.github.io/discord_background/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size (px) [default: cover] */
   --background-attachment: fixed; /* app background attachment [default: fixed] */
@@ -41,7 +41,7 @@
   --user-modal-attachment: var(--background-attachment); /* user modal background attachment [default: var(--background-attachment)] */
   --user-modal-filter: var(--background-filter); /* user modal background adjustments (ex: blur, saturation, brightness) (more info: https://developer.mozilla.org/en-US/docs/Web/CSS/filter) [default: var(--background-filter);] */
   /* HOME ICON */
-  --home-icon: url(https://clearvision.github.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-icon: url(https://zzelley.github.io/discord_background/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://zzelley.github.io/discord_background/discord.svg)]*/
   --home-size: cover; /* home button icon size (px) [default:cover] */
   /* FONTS */
   --main-font: "gg sans", "Helvetica Neue", Helvetica, Arial, sans-serif; /* main font for app (font must be installed) [default: gg sans, Helvetica Neue, Helvetica, Arial, sans-serif] */
